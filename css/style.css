@@ -14,27 +14,29 @@ body {
     background-color: white;
 }
 
-.siliconValley {
-    width: 50%;
-    height:50%;
+.marvelImg {
+    width: 90%;
+    height: 50%;
 }
 
 #caption {
-    font-size: 20px;
+    font-size: 30px;
 }
 
-#tomImg {
+#profileImg {
     border-radius: 50%;
-    width: 50px;
+    width: 90px;
 }
 
 a {
     color: #0f65ef;
     font-weight: bold;
+    font-size: 18px;
 }
 
-#tom {
+#nat {
     color: grey;
+    font-size:20px;
 }
 
 .result {
@@ -42,12 +44,12 @@ a {
 }
 
 button {
-    margin-top: 10px;
+    margin-top: 50px;
     color: white;
-    background-color: red;
-    font-size: 40px;
-    border-radius: 25px;
-    border:3px groove black ;
+    background-color: black;
+    font-size: 35px;
+    border-radius: 18px;
+    border:10px groove black ;
     font-family: monospace;
 }
 
